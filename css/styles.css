@@ -1,0 +1,16 @@
+.page { background-color:#FFFFFF; color: #757575 ;}
+
+/* Колір основного тексту  #757575  */
+/* Додатковий колір  тексту #212121 */
+/* Білий #FFFFFF */
+/* Акцент #2196F3 */
+/* Додатковий колір фона  #2F303A*/
+.logo { color:#2196F3;}
+.logo-studio { color: black;} 
+ul {list-style: none;}
+/* Site-nav */
+.link { color: #212121;} 
+.site-nav .link:hover,
+.site-nav .link:focus {color: #2196F3;}
+/* section-title */
+.section-title {color:#212121;;}
