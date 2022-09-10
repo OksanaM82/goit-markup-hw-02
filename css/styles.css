@@ -1,4 +1,7 @@
-.page { background-color:#FFFFFF; color: #757575 ;}
+:root {--primary-text-color:#757575 ;
+--title-text-color: #212121 ;
+--accent-text-col0r: #2196F3; }
+.page { background-color:#FFFFFF; color: var(--primary-text-color) ;}
 
 /* Колір основного тексту  #757575  */
 /* Додатковий колір  тексту #212121 */
@@ -9,8 +12,12 @@
 .logo-studio { color: black;} 
 ul {list-style: none;}
 /* Site-nav */
-.link { color: #212121;} 
+.link { color: var(--title-text-color);} 
 .site-nav .link:hover,
-.site-nav .link:focus {color: #2196F3;}
-/* section-title */
-.section-title {color:#212121;;}
+.site-nav .link:focus {color: var(--accent-text-col0r);}
+/* contacts */
+.contacts .link:hover,  .link:focus {color: var(--accent-text-col0r);}
+/* Hero */
+.hero-title {color:var(--title-text-color);}
+/* Section */
+.section-title {color: var(--title-text-color);}
