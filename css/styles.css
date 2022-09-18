@@ -164,7 +164,7 @@ color: var(--footer-contacts-color);}
 .footer .link-contacts:hover,
 .footer .link-contacts:focus {color: var(--accent-text-color);}
         /* Портфоліо */
-        .curret{color: var(--accent-text-color);}
+        .current{color: var(--accent-text-color);}
         .portfolio-btn {
             font-weight: 500;
 font-size: 16px;
