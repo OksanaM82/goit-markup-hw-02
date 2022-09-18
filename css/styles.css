@@ -149,7 +149,7 @@ color: var(--title-text-color)
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 1,71; 
+        line-height: 1.71; 
         color: #FFFFFF;  }
         .footer .link-address:hover,
             .footer .link-address:focus {color: var(--accent-text-color);}
@@ -158,7 +158,7 @@ color: var(--title-text-color)
             font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 1,71;
+line-height: 1.71;
 
 color: var(--footer-contacts-color);}
 .footer .link-contacts:hover,
